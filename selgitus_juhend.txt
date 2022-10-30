@@ -1,0 +1,4 @@
+Koormustestide tulemused avasin Excelis.
+Valisin "Delimited" variandi, sest komad "," eraldavad teksti.
+Seejärel panin tulemused Pivot tabelisse.
+Ülesande lahendamiseks kulus 2 tundi, kuna valisin esialgu vale avamise viisi.
