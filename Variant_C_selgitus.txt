@@ -1,0 +1,7 @@
+Installisin Seleniumi Pythonile ja üritasin aru saada,
+kuidas käib Seleniumiga testimine. Vaatasin erinevaid Youtube tutoriale ja
+üritasin nende järgi toimetada. 
+Locators.py, main.py, page.py ja element.py on tehtud 
+https://selenium-python.readthedocs.io/page-objects.html#test-case järgi, 
+millegi pärast need ei tööta korralikult.
+rik.py kuvab URLi pealkirja.
